@@ -14,6 +14,7 @@ Modules used:
 * Install Python version 3.13.5
 * [Clone](https://github.com/Tres300/Interview-Assignment) the repository.
 * Create a virtual enviroment.
-* Inside the repository, run ``` pip install -r requirements.txt ```.
+* Inside the repository, run ```pip install -r requirements.txt```
+* Run ```jupyter lab``` and open the notebook
 * Run all cells in the notebook to regenerate contents and make the interactable charts work.
 * Enjoy!
